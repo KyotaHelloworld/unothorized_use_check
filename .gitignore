@@ -1,0 +1,11 @@
+/*
+!/sample/go.mod
+!/sample/go.sum
+!/sample/main.go
+!/sample/Makefile
+
+!/alert/go.mod
+!/alert/go.sum
+!/alert/main.go
+
+!/Makefile
